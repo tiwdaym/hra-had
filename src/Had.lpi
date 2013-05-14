@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+      </Flags>
+      <MainUnit Value="0"/>
+      <Title Value="hra-had"/>
+      <UseXPManifest Value="True"/>
+      <Icon Value="0"/>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <VersionInfo>
+      <UseVersionInfo Value="True"/>
+      <AutoIncrementBuild Value="True"/>
+      <MinorVersionNr Value="1"/>
+      <RevisionNr Value="1"/>
+      <BuildNr Value="8"/>
+      <Language Value="041B"/>
+      <StringTable FileDescription="Mini-hra HAD" InternalName="Had" LegalCopyright="GNU GPL" OriginalFilename="had" ProductName="hra-had" ProductVersion="0.1.0.0"/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IgnoreBinaries Value="False"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|ppw|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+        <LaunchingApplication PathPlusParams="/usr/X11R6/bin/xterm -T 'Lazarus Run Output' -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+      </local>
+    </RunParams>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="Had.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Had"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="991"/>
+        <CursorPos X="13" Y="994"/>
+        <UsageCount Value="91"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\2.2.4\source\packages\graph\src\win32\graph.pp"/>
+        <UnitName Value="graph"/>
+        <TopLine Value="9"/>
+        <CursorPos X="5" Y="21"/>
+        <UsageCount Value="7"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="pohyb.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="pohyb"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="69" Y="14"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="998" Column="43" TopLine="943"/>
+      </Position1>
+      <Position2>
+        <Filename Value="pohyb.pas"/>
+        <Caret Line="67" Column="34" TopLine="52"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="948" Column="53" TopLine="947"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="1103" Column="8" TopLine="49"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="31" Column="33" TopLine="19"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="768" Column="76" TopLine="761"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="31" Column="23" TopLine="19"/>
+      </Position7>
+      <Position8>
+        <Filename Value="pohyb.pas"/>
+        <Caret Line="20" Column="44" TopLine="15"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="971" Column="27" TopLine="966"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="972" Column="14" TopLine="774"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="397" Column="22" TopLine="380"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="396" Column="12" TopLine="381"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="975" Column="12" TopLine="967"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="396" Column="43" TopLine="114"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="972" Column="18" TopLine="947"/>
+      </Position15>
+      <Position16>
+        <Filename Value="pohyb.pas"/>
+        <Caret Line="62" Column="38" TopLine="49"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="952" Column="22" TopLine="775"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="347" Column="24" TopLine="222"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="971" Column="15" TopLine="959"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="771" Column="10" TopLine="760"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="1076" Column="7" TopLine="1054"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="952" Column="22" TopLine="775"/>
+      </Position22>
+      <Position23>
+        <Filename Value="pohyb.pas"/>
+        <Caret Line="11" Column="50" TopLine="1"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="572" Column="33" TopLine="569"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="10" Column="23" TopLine="1"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="1210" Column="1" TopLine="1190"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="1006" Column="44" TopLine="991"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="1207" Column="52" TopLine="1190"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="996" Column="28" TopLine="977"/>
+      </Position29>
+      <Position30>
+        <Filename Value="Had.lpr"/>
+        <Caret Line="1002" Column="15" TopLine="991"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+    </SearchPaths>
+    <CodeGeneration>
+      <Checks>
+        <IOChecks Value="True"/>
+        <RangeChecks Value="True"/>
+        <OverflowChecks Value="True"/>
+        <StackChecks Value="True"/>
+      </Checks>
+      <Optimizations>
+        <OptimizationLevel Value="3"/>
+      </Optimizations>
+    </CodeGeneration>
+    <Linking>
+      <Debugging>
+        <GenerateDebugInfo Value="False"/>
+        <UseLineInfoUnit Value="False"/>
+        <StripSymbols Value="True"/>
+      </Debugging>
+    </Linking>
+    <Other>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

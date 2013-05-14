@@ -1,0 +1,8 @@
+#files for ignore
+src/Had.exe
+src/backup/*
+src/Had.compiled
+src/Had.o
+src/Had.obj
+src/pohyb.o
+src/pohyb.ppu
